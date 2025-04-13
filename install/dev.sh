@@ -1,6 +1,8 @@
 #!/bin/bash
 
 packages=(
+    "alacritty"
+    "fastfetch"
     "gh"
     "git"
     "go"
@@ -10,8 +12,6 @@ packages=(
 sudo zypper in -y "${packages[@]}"
 
 # rustup https://www.rust-lang.org/tools/install
-echo "rustup"
-echo "  echo '#rustup' >> ~/.bashrc"
-echo "  echo 'export PATH=\"\$HOME/.cargo/bin:\$PATH\' >> ~/.bashrc"
-echo ""
+echo "🧰 rustup"
+rustup default stable
 
