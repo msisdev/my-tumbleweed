@@ -1,2 +1,2 @@
 # my-tumbleweed
- Tumbleweed settings
+Tumbleweed settings
