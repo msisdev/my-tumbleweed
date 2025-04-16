@@ -18,4 +18,4 @@ sudo zypper in -y fd    # https://github.com/sharkdp/fd
 sudo zypper in -y bat   # https://github.com/sharkdp/bat
 fisher install PatrickF1/fzf.fish
 
-fish_add_path 
+# fish_add_path 
