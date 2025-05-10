@@ -1,0 +1,10 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/blood_moon.toml"
+]
+
+[terminal]
+shell = "fish"
+
+[window]
+opacity = 0.9
