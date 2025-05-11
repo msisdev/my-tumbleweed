@@ -24,9 +24,8 @@ plans:
 groups:
   alacritty:
     nux: "~/.config/alacritty"
-  # bash:
-  #   nux: "~"
-  #   win: "$USERPROFILE"
+  bash:
+    nux: "~"
   fastfetch:
     nux: "~/.config/fastfetch"
   fish:
