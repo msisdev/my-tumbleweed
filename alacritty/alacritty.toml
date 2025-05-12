@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/themes/blood_moon.toml"
+    "~/.config/alacritty/themes/gruvbox_material_medium_dark.toml"
 ]
 
 [terminal]
