@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# chromium
+sudo flatpak install -y flathub org.chromium.Chromium
+
 # discord
-flatpak install -y flathub com.discordapp.Discord
+sudo flatpak install -y flathub com.discordapp.Discord
 
 # zen
-flatpak install -y flathub app.zen_browser.zen
+sudo flatpak install -y flathub app.zen_browser.zen
