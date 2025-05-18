@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # fish https://fishshell.com/
-# sudo zypper in -y fish
+sudo zypper in -y fish
 # bc curl-fish-completion fish fwupd-fish-completion gh-fish-completion libpcre2-32-0
 
 # fish
