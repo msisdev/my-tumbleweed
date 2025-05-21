@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# anytype
+sudo flatpak install -y flathub io.anytype.anytype
+
 # chromium
 sudo flatpak install -y flathub org.chromium.Chromium
 
